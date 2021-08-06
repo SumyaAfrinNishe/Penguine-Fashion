@@ -24,3 +24,26 @@
     background: #A4BC46;
 
 }
+
+.jacket{
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+
+}
+
+.card{
+    height:550px;
+    width: 370px;
+    background: white;
+    border-radius: 15px;
+}
+
+.bg-card{
+    background: #F1F1F1;
+    width: 334px;
+    height: 327px;
+    border-radius: 15px;
+    
+    
+}
